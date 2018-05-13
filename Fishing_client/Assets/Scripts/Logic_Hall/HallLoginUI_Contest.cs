@@ -66,7 +66,7 @@ public class HallLoginUI_Contest : HallLoginUI_BaseWind
         Transform BaseTopBtn = BaseTranF.GetChild(0);
         //m_TopBtnsBGAnim = BaseTopBtn.GetChild(0).GetComponent<TweenPosition>();
         //for (byte i = 0; i < 3; i++)
-        //{
+        //{ 
         //    m_TopBtnsList[i].m_BtnObj = BaseTopBtn.GetChild(i + 1).gameObject;
         //    m_TopBtnsListTrans[i] = BaseTopBtn.GetChild(i + 1);
         //    m_TopBtnsList[i].m_Btn = m_TopBtnsList[i].m_BtnObj.GetComponent<UIButton>();
