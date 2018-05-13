@@ -61,7 +61,7 @@ public class HallLoginUI_Contest : HallLoginUI_BaseWind
         InitMatch();
         InitMatchDetailUI();
     }
-    void InitMatch()//初始化竞赛一级界面
+    void InitMatch()//初始化竞赛一级界面 
     { 
         Transform BaseTopBtn = BaseTranF.GetChild(0);
         //m_TopBtnsBGAnim = BaseTopBtn.GetChild(0).GetComponent<TweenPosition>();
